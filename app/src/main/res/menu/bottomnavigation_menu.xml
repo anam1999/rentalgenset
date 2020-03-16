@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/maps_menu"
+        android:title="@string/maps"
+        android:icon="@drawable/ic_maps"/>
+
+    <item
+        android:id="@+id/notif_menu"
+        android:title="@string/notifikasi"
+        android:icon="@drawable/ic_lonceng"/>
+    <item
+        android:id="@+id/rental_menu"
+        android:title="@string/rental"
+        android:icon="@drawable/ic_market"/>
+
+    <item
+        android:id="@+id/account_menu"
+        android:title="@string/account"
+        android:icon="@drawable/ic_account"/>
+
+
+</menu>

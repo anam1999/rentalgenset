@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200784484155",
+    "firebase_url": "https://tekmulang.firebaseio.com",
+    "project_id": "tekmulang",
+    "storage_bucket": "tekmulang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200784484155:android:a229fd6f8ed56636",
+        "android_client_info": {
+          "package_name": "com.example.tekmulang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200784484155-9oef3a0nf6606nrovtn1559ddl7a5pik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tekmulang",
+            "certificate_hash": "9aa7278fa93b8a203e6331c1114baf5346a1bdd1"
+          }
+        },
+        {
+          "client_id": "200784484155-hiht38fh46pnblvm3hvl0l9qiq5d5ddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1eP9AD5EspDSq2E2bIjZHRJLOIMcQNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200784484155-hiht38fh46pnblvm3hvl0l9qiq5d5ddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

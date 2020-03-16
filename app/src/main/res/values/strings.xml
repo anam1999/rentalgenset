@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tekmulang</string>
+    <string name="maps">Tutorial</string>
+    <string name="notifikasi">Produk</string>
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="rental">Produk Pilihan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
